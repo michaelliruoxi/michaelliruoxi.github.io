@@ -9,10 +9,10 @@ Welcome to my website. I'm Michael (Ruoxi Li), a senior at [Boston University] s
 
 Hobbies:
 1. Skiing
-2. Work Out
+2. Hitting the gym
 3. Classical Music
 4. Counter-Strike
-----
+
 
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
