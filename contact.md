@@ -1,8 +1,10 @@
 ---
 layout: page
-title: contact
+title: Contact
 description: List of my contacts.
 ---
 # Contact
-1. Discord:
+1. [Discord]: sharkml
 2. Email: mlrx@bu.edu
+
+[discord]:discord.com
