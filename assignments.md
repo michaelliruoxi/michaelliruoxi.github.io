@@ -12,3 +12,6 @@ Assignment 0: A python script to print the sum of two numbers.
 Assignment 1: Finding optimal location to wait for CDS elevators.
 [Github Link](https://github.com/michaelliruoxi/mlrx-assignment-1.git)
 
+Assignment 2: KMeans Clustering Algorithm with visualization.
+[Github Link](https://github.com/michaelliruoxi/mlrx-assignment-2.git)
+
