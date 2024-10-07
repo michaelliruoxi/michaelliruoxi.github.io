@@ -21,7 +21,7 @@ Assignment 3: SVD Preprocessing on MNIST with Logistic Regression
 <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/watch?v=Ep7_OohfwFw" 
+    src="https://www.youtube.com/embed/Ep7_OohfwFw" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
