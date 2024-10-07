@@ -17,11 +17,6 @@ Assignment 2: KMeans Clustering Algorithm with visualization.
 
 Assignment 3: SVD Preprocessing on MNIST with Logistic Regression 
 [Github Link](https://github.com/michaelliruoxi/mlrx-assignment-3.git) /
-<iframe width="600" height="338" src="https://youtu.be/Ep7_OohfwFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<video width="600" controls>
-  <source src="https://youtu.be/Ep7_OohfwFw">
-  Your browser does not support the video tag.
-</video>
+https://youtu.be/Ep7_OohfwFw
 
 
