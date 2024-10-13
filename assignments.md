@@ -26,3 +26,16 @@ Assignment 3: SVD Preprocessing on MNIST with Logistic Regression
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
 </iframe>
+
+Assignment 4: Search Engine
+[Github Link](https://github.com/michaelliruoxi/mlrx-assignment-4.git) / [Demo video](https://www.youtube.com/watch?v=wUh6HIWKBTc)
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/wUh6HIWKBTc" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
