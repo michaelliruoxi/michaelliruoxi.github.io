@@ -24,10 +24,10 @@ Assignment 2: KMeans Clustering Algorithm with visualization.
     allowfullscreen>
 </iframe>
 
-Assignment 3: SVD Preprocessing on MNIST with Logistic Regression 
+Assignment 3: SVD Preprocessing on MNIST with Logistic Regression.
 [Github Link](https://github.com/michaelliruoxi/mlrx-assignment-3.git)
 
-Assignment 4: Search Engine
+Assignment 4: Search Engine.
 [Github Link](https://github.com/michaelliruoxi/mlrx-assignment-4.git) / [Demo video](https://www.youtube.com/watch?v=wUh6HIWKBTc)
 
 <iframe 
@@ -39,7 +39,7 @@ Assignment 4: Search Engine
     allowfullscreen>
 </iframe>
 
-Assignment 5: Kaggle Competition - Predicting Customer Churn Using KNN
+Assignment 5: Kaggle Competition - Predicting Customer Churn Using KNN.
 [Github Link](https://github.com/michaelliruoxi/mlrx-assignment-5.git)
 
 
