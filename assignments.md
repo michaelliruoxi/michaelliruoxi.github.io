@@ -39,3 +39,8 @@ Assignment 4: Search Engine
     allowfullscreen>
 </iframe>
 
+Assignment 5: Kaggle Competition - Predicting Customer Churn Using KNN
+[Github Link](https://github.com/michaelliruoxi/mlrx-assignment-5.git)
+
+
+
