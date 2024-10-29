@@ -42,5 +42,5 @@ Assignment 4: Search Engine.
 Assignment 5: Kaggle Competition - Predicting Customer Churn Using KNN.
 [Github Link](https://github.com/michaelliruoxi/mlrx-assignment-5.git)
 
-
-
+Midterm: Kaggle Competition - Predicting star rating for Amazon Movie Reviews.
+[Github Link](https://github.com/michaelliruoxi/mlrx-cs506-midterm.git)
