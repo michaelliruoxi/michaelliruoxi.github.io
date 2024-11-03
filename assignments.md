@@ -44,3 +44,15 @@ Assignment 5: Kaggle Competition - Predicting Customer Churn Using KNN.
 
 Midterm: Kaggle Competition - Predicting star rating for Amazon Movie Reviews.
 [Github Link](https://github.com/michaelliruoxi/mlrx-cs506-midterm.git)
+
+Assignment 6: Linear Regression Experiments.
+[Github Link](https://github.com/michaelliruoxi/mlrx-assignment-6.git) / [Demo video](https://youtu.be/l8vPsL2zPWk)
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/l8vPsL2zPWk" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
