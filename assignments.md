@@ -58,12 +58,12 @@ Assignment 6: Linear Regression Experiments.
 </iframe>
 
 Assignment 7: Hypothesis Testing and Confidence Intervals in Linear Regression.
-[Github Link](https://github.com/michaelliruoxi/mlrx-assignment-7.git) / [Demo video](https://youtu.be/xOgaMEvtCyw)
+[Github Link](https://github.com/michaelliruoxi/mlrx-assignment-7.git) / [Demo video](https://youtu.be/KosFLNiPX6c)
 
 <iframe 
     width="560" 
     height="315" 
-    src="https://www.youtube.com/embed/xOgaMEvtCyw" 
+    src="https://www.youtube.com/embed/KosFLNiPX6c" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
