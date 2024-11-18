@@ -68,3 +68,16 @@ Assignment 7: Hypothesis Testing and Confidence Intervals in Linear Regression.
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
 </iframe>
+
+Assignment 8: Logistic Regression Cluster Shift Experiment.
+[Github Link](https://github.com/michaelliruoxi/mlrx-assignment-8.git) / [Demo video](https://youtu.be/ptJtirhkZaA)
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/ptJtirhkZaA" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
