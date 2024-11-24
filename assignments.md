@@ -81,3 +81,14 @@ Assignment 8: Logistic Regression Cluster Shift Experiment.
     allowfullscreen>
 </iframe>
 
+Assignment 9: Visualizing Neural Networks.
+[Github Link](https://github.com/michaelliruoxi/mlrx-assignment-9.git) / [Demo video](https://youtu.be/vdu5nGI6ODM)
+
+<iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/vdu5nGI6ODM" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
