@@ -92,3 +92,8 @@ Assignment 9: Visualizing Neural Networks.
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
 </iframe>
+
+Extra Credit: Identifying Credit Card Fraud.
+[Github Link](https://github.com/michaelliruoxi/mlrx-cs506-extracredit.git)
+
+
