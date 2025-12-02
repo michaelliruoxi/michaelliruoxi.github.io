@@ -4,7 +4,7 @@ title: Projects
 description: My projects.
 ---
 
-# Assignments
+# Projects
 
 A python script to print the sum of two numbers.
 [Github Link](https://github.com/michaelliruoxi/mlrx-assignment-0.git)
